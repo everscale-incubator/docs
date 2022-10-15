@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkeverscale_docs_website=self.webpackChunkeverscale_docs_website||[]).push([[5611],{441:function(e){e.exports=JSON.parse('{"title":"Build","slug":"develop","permalink":"/docs/develop","navigation":{"previous":{"title":"v2.3","permalink":"/docs/arch/abi/2.3"},"next":{"title":"Tutorials","permalink":"/docs/develop/tutorial"}}}')}}]);
