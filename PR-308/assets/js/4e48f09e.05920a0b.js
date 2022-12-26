@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeverscale_docs_website=self.webpackChunkeverscale_docs_website||[]).push([[6162],{9720:e=>{e.exports=JSON.parse('{"title":"Architecture","slug":"arch","permalink":"/docs/PR-308/arch","navigation":{"previous":{"title":"Support","permalink":"/docs/PR-308/learn/support"},"next":{"title":"Basics","permalink":"/docs/PR-308/arch/basics"}}}')}}]);
